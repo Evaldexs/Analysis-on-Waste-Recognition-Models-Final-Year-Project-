@@ -1,4 +1,2 @@
 # This is the github repository for the final year project 
-The repository will consists of the following:
-  1. All technical code with libraries and datasets provided in it
-  2. Records of technical work
+# This repository is split into distinct branches having various parts of the project (Project management evidence, the code used in project, technical work record)
